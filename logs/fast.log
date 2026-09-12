@@ -1,0 +1,6 @@
+09/12/2026-17:35:40.677497  [**] [1:1000001:1] TASK4 - ICMP Traffic Detected [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:f4a1:1eff:fe6e:488b:135 -> 2409:4070:2294:d4e1:0b41:8ac4:7e3d:9957:0
+09/12/2026-17:35:40.677572  [**] [1:1000001:1] TASK4 - ICMP Traffic Detected [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} 2409:4070:2294:d4e1:0b41:8ac4:7e3d:9957:136 -> fe80:0000:0000:0000:f4a1:1eff:fe6e:488b:0
+09/12/2026-17:35:55.528875  [**] [1:1000001:1] TASK4 - ICMP Traffic Detected [**] [Classification: (null)] [Priority: 3] {ICMP} 10.124.216.147:8 -> 10.124.216.186:0
+09/12/2026-17:35:55.534772  [**] [1:1000001:1] TASK4 - ICMP Traffic Detected [**] [Classification: (null)] [Priority: 3] {ICMP} 10.124.216.186:0 -> 10.124.216.147:0
+09/12/2026-17:37:41.715752  [**] [1:1000001:1] TASK4 - ICMP Traffic Detected [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:f4a1:1eff:fe6e:488b:134 -> ff02:0000:0000:0000:0000:0000:0000:0001:0
+09/12/2026-17:37:41.729653  [**] [1:1000001:1] TASK4 - ICMP Traffic Detected [**] [Classification: (null)] [Priority: 3] {IPv6-ICMP} fe80:0000:0000:0000:15c7:cb64:d093:4529:143 -> ff02:0000:0000:0000:0000:0000:0000:0016:0
